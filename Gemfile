@@ -6,6 +6,7 @@ gem 'rails-api'
 gem 'active_model_serializers', github: 'rails-api/active_model_serializers'
 gem 'bcrypt'
 gem 'has_secure_token'
+gem 'warden'
 
 group :development do
   gem 'sqlite3'
